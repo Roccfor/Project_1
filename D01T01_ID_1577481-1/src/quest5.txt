@@ -1,0 +1,5 @@
+nano door_1.conf
+Изменили статус CLOSED на OPEN
+Ctrl+O
+Enter
+Ctrl+X
